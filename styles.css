@@ -5,8 +5,8 @@
     object-fit: cover;
 
     display: grid;
-    grid-template-columns: 1fr 3fr 1fr;
-    grid-template-rows: 1fr 3fr 1fr;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 1fr 2fr 1fr;
     gap: 20px;
 }
 
@@ -27,6 +27,7 @@
     text-align: center;
     padding-top: 100px;
 }
+
 
 .iframe-container{
     position: relative;
@@ -83,3 +84,8 @@ li {
 .item--1, .item--4, .item--7 {
     background-color: darkgray;
 }
+
+.item--3, .item--6, .item--9 {
+    background-color: darkgray;
+}
+
