@@ -60,6 +60,7 @@
     max-width:100%;
     max-height:100%;
     padding: 20px;
+    align-items: center;
     
 }
 
@@ -89,3 +90,10 @@ li {
     background-color: darkgray;
 }
 
+.item--9 {
+    text-align: center;
+}
+
+.item--7 {
+    text-align: center;
+}
