@@ -70,10 +70,6 @@ img {
     display: inline-block;
 }
 
-.navbar {
-    text-align: center;
-    padding-left: 80px;
-}
 
 .GitHub {
     display: block;
@@ -104,6 +100,6 @@ li {
     padding-left: 40%;
 }
 
-a:hover {
-    color: darkblue;
+.navbar {
+    position: absolute;
 }
