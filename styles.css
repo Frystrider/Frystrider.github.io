@@ -67,6 +67,7 @@
 img {
     max-width:100%;
     max-height:100%;
+    display: inline-block;
 }
 
 .navbar {
@@ -96,4 +97,12 @@ li {
 
 .item--7 {
     text-align: center;
+}
+
+.navbar {
+    padding-left: 40%;
+}
+
+a:hover {
+    color: darkblue;
 }
